@@ -11,7 +11,7 @@ Tailwind CSS: Utility-first CSS framework
 
 CoinGecko API: Acrypto currency API to fetch data such as live crypto prices, market cap e.t.c
 
-Recharts: A react library used to visualize data in various formats.
+Google charts: A tool used to visualize data in various formats.
 
 Features
 
