@@ -20,3 +20,11 @@ a{
   @apply bg-gradient-to-r;
   background-image: linear-gradient(to right, #0b004e, #1d152f, #002834);
 } */
+
+.coin-info ul{
+  @apply flex text-white justify-between py-[10px] px-0 border-b-[1px] border-solid border-b-[#5f5d5f] list-none
+}
+
+.coin-info ul li:last-child {
+  @apply font-light
+}

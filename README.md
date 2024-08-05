@@ -1,8 +1,22 @@
-# React + Vite
+CryptoPlace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a crypto price tracking app built Reactjs, Tailwind Css, CoinGecko API and google charts. This web app allows users check the cuurent price of tokens, market-cap and also the percentage changes in price, all in real-time. It aslo updates the prices of tokens in response to the selected currency.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+
+React: JavaScript library for building user interfaces
+
+Tailwind CSS: Utility-first CSS framework
+
+CoinGecko API: Acrypto currency API to fetch data such as live crypto prices, market cap e.t.c
+
+Recharts: A react library used to visualize data in various formats.
+
+Features
+
+displays the prices, market cap and daily percentage change in the price of tokens
+
+includes a search functionality to find tokens not listed in the home page.
+
+displays details of selected token all in real-time.
